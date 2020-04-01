@@ -5,7 +5,7 @@ Build 30 things in 30 days with 30 tutorials\
 No Frameworks×No Compilers×No Libraries×No Boilerplate
 
 - [x] 01 - JavaScript Drum Kit
-- [ ] 02 - JS and CSS Clock
+- [x] 02 - JS and CSS Clock
 - [ ] 03 - CSS Variables
 - [ ] 04 - Array Cardio Day 1
 - [ ] 05 - Flex Panel Gallery
@@ -37,7 +37,7 @@ No Frameworks×No Compilers×No Libraries×No Boilerplate
 
 ## Useful links
 
-[Key Code](keycode.info)
+[Key Code](http://www.keycode.info)
 
 ## Same challenge another language.
 
