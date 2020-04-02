@@ -39,7 +39,7 @@ No Frameworks×No Compilers×No Libraries×No Boilerplate
 
 [Key Code](http://www.keycode.info)
 
-## Same challenge another language.
+## Same challenge another language
 
 [Vue implemantation of JS30](https://davefollett.io/2018/08/01/a-new-vue-on-javascript30-getting-started/) \
 [TypeScript30](https://github.com/tricinel/TypeScript30)
