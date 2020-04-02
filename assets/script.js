@@ -4,7 +4,7 @@ const modal = document.querySelector('.modal');
 
 for (const card of cards) {
     card.addEventListener('click', function() {
-        modalOverlay.querySelector('iframe').src = `/${card.id}`;
+        modalOverlay.querySelector('iframe').src = window.location.href+`/${card.id}`;
         modalOverlay.classList.add('visible');
     });
 }
