@@ -82,7 +82,7 @@ iframe {
 }
 
 span.tag-day {
-  @apply inline-block bg-blue-700 rounded-full px-2 text-sm font-semibold text-white mr-2 mt-2 float-right text-right;
+  @apply inline-block bg-red-600 rounded-full px-2 text-sm font-semibold text-white mr-2 mt-2 float-right text-right;
 }
 
 @tailwind utilities;
